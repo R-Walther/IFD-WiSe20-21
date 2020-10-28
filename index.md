@@ -3,5 +3,5 @@
 ## Aufgaben
 1. [SWOT](https://github.com/R-Walther/IFD-WiSe20-21/tree/main/ifd-sose20task0_swot)
 1. [Geldbeutel](https://github.com/R-Walther/IFD-WiSe20-21/tree/main/ifd-sose20task1_Geldbeutel)
-1. [Task 2.1](https://github.com/R-Walther/IFD-WiSe20-21/blob/main/ifd-sose20task2/Google%20Sites%20-%20interface.pdf)
-1. {Task 2.2](https://github.com/R-Walther/IFD-WiSe20-21/blob/main/ifd-sose20task2/Aufgabe%202.2-merged.pdf)
+1. [Task 2.1]()
+1. [Task 2.2](https://github.com/R-Walther/IFD-WiSe20-21/blob/main/ifd-sose20task2/Aufgabe%202.2-merged.pdf)
