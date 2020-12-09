@@ -1,7 +1,7 @@
 
 # Schritt 1: 
-  ![step1.1] (WhatsApp Image 2020-12-03 at 19.38.58 (9).jpeg)
-  ![step1.1](/WhatsApp Image 2020-12-03 at 19.38.58 (7).jpeg)
+  ![step1.1] (WhatsApp_Image_2020-12-03_at_19.38.58_(9).jpeg "title")
+  ![step1.1](/WhatsApp_Image_2020-12-03_at_19.38.58_(9).jpeg "title")
 Ausschneiden. Mann koennte auch die Zuerst auf dem Karton kleben, so kann man den Platz aber besser verwenden.
 
 
