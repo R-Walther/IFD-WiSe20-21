@@ -16,7 +16,6 @@ Karton nachschneiden.
 
 # Schritt 4:
 ![step4.1](https://github.com/R-Walther/IFD-WiSe20-21/blob/main/ifd-sose20task7/img%20(5).jpeg)
-![step4.2](https://github.com/R-Walther/IFD-WiSe20-21/blob/main/ifd-sose20task7/img%20(2).jpeg)
 ![step4.3](https://github.com/R-Walther/IFD-WiSe20-21/blob/main/ifd-sose20task7/img%20(6).jpeg)
 Falten und kleben. Die dunkle Zahlen werden auf den hellen geklebt. Die klappe vorne offen lassen damit der Nutzer ein Handy reinlegen kann. 
 
