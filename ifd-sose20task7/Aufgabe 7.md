@@ -1,6 +1,6 @@
 
 # Schritt 1: 
-  ![step1.1](/img_(9).jpeg "title")
+  ![step1.1](../img_(9).jpeg "title")
   ![step1.2](/img_(7).jpeg "title")
 Ausschneiden. Mann koennte auch die Zuerst auf dem Karton kleben, so kann man den Platz aber besser verwenden.
 
