@@ -11,7 +11,7 @@ Am Karton ankleben.
 Schritt 3: 
 Karton nachschneiden.
 
-![step4.1](/ifd-sose20task7/WhatsApp Image 2020-12-03 at 19.38.58 (5).jpeg)
+![step4.1](/IFD-WiSe20-21/ifd-sose20task7/WhatsApp Image 2020-12-03 at 19.38.58 (5).jpeg)
 ![step4.2](/ifd-sose20task7/WhatsApp Image 2020-12-03 at 19.38.58 (4).jpeg)
 ![step4.3](/ifd-sose20task7/WhatsApp Image 2020-12-03 at 19.38.58 (2).jpeg)
 Schritt 4:
